@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals
+# GitHub Actions Fundamentals - Lindsay's copy
 
 Repo for the `GitHub Actions Fundamentals` training.
 
